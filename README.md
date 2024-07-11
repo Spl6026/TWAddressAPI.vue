@@ -6,4 +6,4 @@
 道路:https://data.gov.tw/dataset/162973<br>
 <br>
 預覽:https://spl6026.github.io/TWAddressAPI.vue/<br>
-可以此加以修改成自己的需求，組件部分放在master branch中
+可以此加以修改成自己的需求，原始碼運用部分請參考App.vue與/components內的組件
